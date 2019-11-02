@@ -7,7 +7,7 @@ seaborn==0.8
 Flask_PyMongo==2.2.0
 matplotlib==2.1.0
 numpy==1.16.0
-Flask==0.12.2
+Flask==1.0
 flask_migrate==2.4.0
 flask_script==2.0.6
 home==0.3.4
